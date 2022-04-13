@@ -1202,8 +1202,8 @@ footer img{
 
     .video-section-aside-buttons{
         display: grid;
-        grid: 'download download download download download download' 
-        'favorite favorite favorite doi doi doi' 'text text text text text text';
+        grid: 'download download' 
+        'favorite doi' 'text text';
         grid-gap: 5px;
     }
 
